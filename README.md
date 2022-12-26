@@ -7,6 +7,7 @@ Widgetbook can manage useful widgets for projects and be the showcase place.
 ## Demo
 
 <img src="./demo/demo.png" />
+<img src="./demo/demo.gif" />
 
 ## Weakness
 I don't like to use `widgetbook_annotation` and `widgetbook_generation` for codegen. Because it cannot set knobs for dynamic data of functional widget. And it doesn't save much time for development.
