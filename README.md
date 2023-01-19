@@ -2,7 +2,18 @@
 
 <img src="./cover.png" />
 
+<p align="center">
+  <a href=""><img alt="Flutter" src="https://img.shields.io/badge/Flutter-Lover-blue?style=flat&logo=flutter"/></a>
+  &nbsp
+  <a href="https://medium.com/@yiichenhi"><img alt="Medium" src="https://img.shields.io/badge/Medium-Yii%20Chen-black?style=flat&logo=Medium"/></a>
+  &nbsp
+  <a href=""><img alt="" src="https://img.shields.io/github/followers/chyiiiiiiiiiiii?style=social"/></a>
+</p>
+
 Widgetbook can manage useful widgets for projects and be the showcase place.
+
+## Article
+[學會運用 Flutter Widgetbook，該管好自己和公司的元件庫了！](https://medium.com/flutter-formosa/學會運用-flutter-widgetbook-該管好自己和公司的元件庫了-9b4ed704c4c5)
 
 ## Demo
 
